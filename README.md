@@ -26,12 +26,9 @@ You're going to need:
 ### Fields 
 1. name: `The official name of your project`
 2. category: `Select from categories below`
-3. status: `The official name of your project`
-4. origination: `The official name of your project`
-5. description: `The official name of your project`
-6. logo: `The official name of your project`
-7. link: `The official name of your project`
-8. twitter: `The official name of your project`
+3. logo: `Url to your logo`
+4. link: `Url to your website`
+5. twitter: `Url to your Twitter`
 
 Note: If your project belongs to more than one category, you can add each secondary category as a comma separated entry. (e.g. Defi, Nft etc.)
 ### Categories
