@@ -19,7 +19,7 @@ You're going to need:
 ### Getting Set Up
 
 1. Fork this repository on Github
-2. Clone your forked repository (not our original one) to your hard drive with `git clone https://github.com/{username}/cronos-docs.git`
+2. Clone your forked repository (not our original one) to your hard drive with `git clone https://github.com/{username}/cronos-awesome.git`
 3. `cd cronos-awesome`
 4. Make a copy of `MAKE_COPY.json`, rename the copy and start filling out the fields.
 
