@@ -1,0 +1,12 @@
+{
+    "project": {
+        "name": "PROJECT_NAME", 
+        "category": "PROJECT_CATEGORY",
+        "status": "PROJECT_STATUS",
+        "origination": "PROJECT_ORIGINATION",
+        "description": "PROJECT_DESCRIPTION",
+        "logo": "URL_TO_LOGO",
+        "link": "URL_TO_PROJECT",
+        "twitter": "PROJECT_DESCRIPTION"
+    }
+}
