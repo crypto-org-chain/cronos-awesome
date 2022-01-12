@@ -3,6 +3,7 @@
         "name": "PROJECT_NAME", 
         "category": "PROJECT_CATEGORY",
         "logo": "URL_TO_LOGO",
+        "description": "PROJECT_DESCRIPTION",
         "link": "URL_TO_PROJECT",
         "twitter": "URL_TO_TWITTER"
     }
