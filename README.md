@@ -27,8 +27,9 @@ You're going to need:
 1. name: `The official name of your project`
 2. category: `Select from categories below`
 3. logo: `Url to your logo`
-4. link: `Url to your website`
-5. twitter: `Url to your Twitter`
+4. description: `Brief Project Description`,
+5. link: `Url to your website`
+6. twitter: `Url to your Twitter`
 
 Note: If your project belongs to more than one category, you can add each secondary category as a comma separated entry. (e.g. Defi, Nft etc.)
 ### Categories
