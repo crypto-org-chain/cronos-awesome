@@ -40,15 +40,18 @@ Note: If your project belongs to more than one category, you can add each second
 `Infrastructure`,
 `Launchpad`,
 `Lending`,
+`Metaverse`,
 `News`,
 `NFT`,
-`Optimiser`,
 `Options`,
 `Others`,
-`Reserve`,
+`Reserve Currency`,
 `Stablecoin`,
+`Structured Finance`,
 `Tools`,
 `Wallet`,
+`Web3`,
+`Yield Optimiser`,
 
 ### Commit Changes
 ```bash
