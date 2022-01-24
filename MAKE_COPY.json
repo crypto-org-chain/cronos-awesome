@@ -1,10 +1,11 @@
 {
     "project": {
-        "name": "PROJECT_NAME", 
-        "category": ["PROJECT_CATEGORY"],
-        "logo": "URL_TO_LOGO",
-        "description": "PROJECT_DESCRIPTION",
-        "link": "URL_TO_PROJECT",
-        "twitter": "URL_TO_TWITTER"
+        "name": "CroMarket.app", 
+        "category": ["DEX"],
+        "logo": "https://cromarket.app/small-s.jpg",
+        "description": "We're all-in-one dex based on Cronos chain (live streaming charts + swap feature for more than 20 liquidity providers)",
+        "link": "https://cromarket.app/",
+        "twitter": "https://twitter.com/cromarketapp"
     }
 }
+
