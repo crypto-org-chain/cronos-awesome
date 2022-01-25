@@ -21,7 +21,7 @@ You're going to need:
 1. Fork this repository on Github
 2. Clone your forked repository (not our original one) to your hard drive with `git clone https://github.com/{username}/cronos-awesome.git`
 3. `cd cronos-awesome`
-4. Make a copy of `MAKE_COPY.json`, rename the copy and start filling out the fields. Please keep the content in `MAKE_COPY.json` unchanged.
+4. Make a copy of `MAKE_COPY.json`, rename the copy, move it under `projects` directory and start filling out the fields. Please keep the content in `MAKE_COPY.json` unchanged.
 
 ### Fields 
 1. name: `The official name of your project`
