@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "DarkCrypto Finance",
+        "category": ["Stablecoin"],
+        "logo": "https://www.darkcrypto.finance/images/dark.svg",
+        "description": "DarkCrypto Finance is an algorithmic token pegged to CRO enabling the generation of DARK tokens",
+        "link": "https://www.darkcrypto.finance/",
+        "twitter": "https://twitter.com/DarkCryptoFi"
+    }
+}
