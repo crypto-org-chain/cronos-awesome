@@ -21,7 +21,7 @@ You're going to need:
 1. Fork this repository on Github
 2. Clone your forked repository (not our original one) to your hard drive with `git clone https://github.com/{username}/cronos-awesome.git`
 3. `cd cronos-awesome`
-4. Make a copy of `MAKE_COPY.json`, rename the copy and start filling out the fields.
+4. Make a copy of `MAKE_COPY.json`, rename the copy and start filling out the fields. Please keep the content in `MAKE_COPY.json` unchanged.
 
 ### Fields 
 1. name: `The official name of your project`
@@ -81,5 +81,7 @@ Then:
 gh pr create --base staging --head ${username}:main
 ```
 This will programatically create PR based on your commit. Once we receive the PR we will review the project details and format.
+
+Note: We only accept PRs to our `staging` branch.
 
 Once review and approved, you should see your projects on [crypto-org-chain/cronos-awesome/tree/staging](crypto-org-chain/cronos-awesome/tree/staging).
