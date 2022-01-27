@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "Cronos Research", 
+        "category": ["Tools"],
+        "logo": "https://softr-prod.imgix.net/applications/31aa3593-e344-48c5-89aa-1b41d80f474e/assets/8d221b6c-d754-452e-9c1f-2fdb3e37e2ab.png",
+        "description": "Cronos Research is #1 resource for an overview on Cronos projects. All information in one place, easy-to-use search and DeFi/NFT Analytics.",
+        "link": "https://www.cronosresearch.com/",
+        "twitter": "https://twitter.com/croresearch"
+    }
+}
