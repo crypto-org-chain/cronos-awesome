@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "CroSea", 
+        "category": ["NFT", "Launchpad"],
+        "logo": "https://gateway.pinata.cloud/ipfs/QmScBQGguaePQxBg4PHe2xZsqz7kV18dW7HgEdbF2wAm8D?preview=1",
+        "description": "The first open NFT marketplace on Cronos to buy, sell, auction, mint and trade Cronos based NFT.",
+        "link": "https://www.crosea.io/",
+        "twitter": "https://twitter.com/croseanft"
+    }
+}
