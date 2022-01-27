@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "Metaverse Pixels",
+        "category": ["NFT", "Metaverse", "Farm"],
+        "logo": "https://www.metaversepixels.app/logo192.png",
+        "description": "Metaverse pixels is a nft related platform running on CRONOS, is a big grid where you can get pixels from the grid as NFT and submit your own content (image, detail, link), we also have MetaPx Token that is used to get pixels and yield farming",
+        "link": "https://www.metaversepixels.app/",
+        "twitter": "https://twitter.com/MetaversePixels"
+    }
+}
