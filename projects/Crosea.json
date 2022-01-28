@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "CroSea", 
+        "category": ["NFT", "Launchpad"],
+        "logo": "https://www.crosea.io/mstile-150x150.png",
+        "description": "The first open NFT marketplace on Cronos to buy, sell, auction, mint and trade Cronos based NFT.",
+        "link": "https://www.crosea.io/",
+        "twitter": "https://twitter.com/croseanft"
+    }
+}
