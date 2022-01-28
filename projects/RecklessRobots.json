@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "Reckless Robots NFT", 
+        "category": ["NFT"],
+        "logo": "https://drive.google.com/file/d/14Pz_EMZjppH46bhWKHXo-HAcDjcik0JB/view?usp=sharing",
+        "description": "Reckless Robots is a collection of 2100 unique and detailed hand-drawn NFTs deployed on the Cronos Chain. Distinctive features for the project are NFT staking and eliminations (burning). Eliminations are conducted by buying the weakest bids from secondary markets and burning the NFTs. Eliminated NFTs are commemorated in the community.",
+        "link": "https://www.recklessrobotsnft.com",
+        "twitter": "https://twitter.com/recklessrobots"
+    }
+}
