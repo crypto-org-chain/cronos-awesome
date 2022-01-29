@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "Crodo", 
+        "category": ["Launchpad"],
+        "logo": "https://crodo.fra1.digitaloceanspaces.com/cronos/big_logo.png",
+        "description": "IDO on Cronos network",
+        "link": "https://crodo.io/",
+        "twitter": "https://twitter.com/Crodo_io"
+    }
+}
