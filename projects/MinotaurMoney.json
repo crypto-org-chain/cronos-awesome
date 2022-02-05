@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "Minotaur Money", 
+        "category": ["Reserve Currency"],
+        "logo": "https://imgur.com/IoutGjm",
+        "description": "Minotaur.Money is a reserve currency and decentralized VC on the Cronos Network that employs transaction tax redistribution to stakers as a holding incentive! Outside wsMINO staking pools provide double staking rewards as part of a fair, transparent user giveback program.",
+        "link": "https://minotaur.money",
+        "twitter": "https://twitter.com/Minotaur_Money"
+    }
+}
