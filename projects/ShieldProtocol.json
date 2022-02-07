@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "Shield Protocol", 
+        "category": ["Wallet", "Tools", "Infrastructure", "Web3", "NFT"],
+        "logo": "https://shieldprotocol.org/resources/shield_logo.png",
+        "description": "Shield Protocol includes a multi chain wallet currently supporting BSC Chain, Polygon Chain, Avalanche Chain, Fantom Chain, TomoChain, Ethereum, Meter Chain, Telos Chain, KCC Chain and Cronos Chain. It is First 2FA on Blockchain which integrates 2FA backup on Multi Blockchains. Users can backup and restore their 2FA accounts on Multi Blockchains rather than centralized servers, which also facilitate NO personal data collection of users.",
+        "link": "https://shieldprotocol.org/",
+        "twitter": "https://twitter.com/shield2protocol"
+    }
+}
