@@ -25,14 +25,15 @@ You're going to need:
 
 ### Fields 
 1. name: `The official name of your project`
-2. category: `Select from categories below`
+2. category: `Select up to 3 items from Categories below`
 3. logo: `Url to your logo`
 4. description: `Brief Project Description`,
 5. link: `Url to your website`
 6. twitter: `Url to your Twitter`
 
-Note: If your project belongs to more than one category, you can add each secondary category as a comma separated entry. (e.g. Defi, Nft etc.)
-### Categories
+Note: If your project belongs to more than one category, you can add each secondary category as a comma separated entry. (e.g. `["Farm", "NFT"]` etc.)
+
+### Categories (Select up to 3 categories)
 `Bridge`,
 `DEX`,
 `Farm`,
