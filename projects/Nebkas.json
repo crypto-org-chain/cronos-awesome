@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "nebkas.ro", 
+        "category": ["Infrastructure"],
+        "logo": "https://raw.githubusercontent.com/nebkas/nebkas.ro/main/nebkas-logo.svg",
+        "description": "nebkas.ro provides free presonal RPC access for using MetaMask on the Crypto.org Cronos Blockchain. We also provide paid enterprise RPC Service for several projekts like https://mm.finance, https://ebisusbay.com, https://dexpad.io and many more",
+        "link": "https://nebkas.ro",
+        "twitter": "https://twitter.com/nebkas_ro"
+    }
+}
