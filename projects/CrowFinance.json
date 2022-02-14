@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "Crow Finance", 
+        "category": ["DEX", "Launchpad"],
+        "logo": "https://crowfi.app/favicon.png",
+        "description": "CrowFi is an easy-to-use DeFi Exchange built on the Cronos network. Trade, Farm, Stake, and Earn passive income with a few clicks!",
+        "link": "https://crowfi.app/",
+        "twitter": "https://twitter.com/crowfi_"
+    }
+}
