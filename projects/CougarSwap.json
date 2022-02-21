@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "CougarSwap",
+        "category": ["Farm", "Yield Optimiser", "DEX"],
+        "logo": "https://cronosapp.cougarswap.io/images/logo_256.png",
+        "description": "The futuristic generation Yield Farming strategies built on Cronos network features at the highest stability and security level",
+        "link": "https://cronosapp.cougarswap.io/",
+        "twitter": "https://twitter.com/cougarswap"
+    }
+}
