@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "V3S Finance", 
+        "category": ["Stablecoin"],
+        "logo": "https://www.v3s.finance/images/v3s.svg",
+        "description": "The first algorithmic token pegged to the price of 1 VVS via seigniorage. Built by a Team of VVS Diamond holders.",
+        "link": "https://www.v3s.finance/",
+        "twitter": "https://twitter.com/v3sfinance"
+    }
+}
