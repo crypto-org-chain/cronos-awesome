@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "tofuNFT",
+        "category": ["NFT", "Web3", "Gaming"],
+        "logo": "https://docs.tofunft.com/#/logos",
+        "description": "The multichain NFT marketplace for Collectibles, GameFi and DeFi",
+        "link": "https://tofunft.com/",
+        "twitter": "https://twitter.com/tofuNFT"
+    }
+}
