@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "CoinMarkt", 
+        "category": ["Launchpad", "Tools", "DEX"],
+        "logo": "https://www.coinmarkt.app/images/coinmarkt_logo.png",
+        "description": "A suite of tools were you can create your own tokens and launchpads in a fast, simple and cheap way, with no code knowledge. With CoinMarkt you can: Mint standard or deflationary tokens with tax and/or charity functions; Create a presale launchpad with just a few clicks; Provide liquidity to VVS or MM Finance; Lock your liquidity.",
+        "link": "https://coinmarkt.app",
+        "twitter": "https://twitter.com/CoinMarktTools"
+    }
+}
