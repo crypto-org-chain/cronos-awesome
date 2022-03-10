@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "NerveNetwork", 
+        "category": ["Bridge","DEX","Farm"],
+        "logo": "https://drive.google.com/file/d/1ic4xk5Txr6tdNlyXR7eq9shvTddevH-j/view?usp=sharing",
+        "description": "NerveNetwork is a cross-chain DeFi ready solution that makes it very easy to cross-chain assets from several blcokchain projects including Cronos; it also offer tools for creating farms and add liquidity.",
+        "link": "https://nerve.network/",
+        "twitter": "https://twitter.com/nerve_network"
+    }
+}
