@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "FoxWallet", 
+        "category": ["Wallet", "Infrastructure"],
+        "logo": "https://hc.foxwallet.com/assets/images/logo-256-ca0f03ec4d8e3c02bd953005a936f94b.png",
+        "description": "FoxWallet is a decentralized Web3 mobile wallet that serves as an excellent tool for ensuring safety, anonymity and storage of crypto assets for crypto users",
+        "link": "https://foxwallet.com",
+        "twitter": "https://twitter.com/FoxWallet"
+    }
+}
