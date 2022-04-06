@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "CroSkull", 
+        "category": ["NFT", "Gaming", "Farm"],
+        "logo": "https://croskull.mypinata.cloud/ipfs/QmZgtidHJ6mSesYBQsMZ73KzKii447SdyoiPT5wWrzWCaZ?filename=croksull-logo.jpeg",
+        "description": "CroSkull is a collection of 6,666 NFTs created by Dr. Jiko, that is randomly generated and stored on the Cronos chain. Ecosystem, Staking, Community, Adventures, everything will take shape in this mysterious world called the Underworld.",
+        "link": "https://app.croskull.com",
+        "twitter": "https://twitter.com/CroskullNFT"
+    }
+}
