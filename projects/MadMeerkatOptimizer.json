@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "Mad Meerkat Optimizer",
+        "category": ["Yield Optimizer", "NFT"],
+        "logo": "https://vaults.mm.finance/logos/0x50c0C5bda591bc7e89A342A3eD672FB59b3C46a7.png",
+        "description": "The #1 DeFi Yield Optimizer on Cronos Chain, Enjoy high APY rewards by staking in our auto-compounding vaults that helps you save gas fees while maximizing your yields",
+        "link": "https://vaults.mm.finance/vault",
+        "twitter": "https://twitter.com/MMFcrypto"
+    }
+}

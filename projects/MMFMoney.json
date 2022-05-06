@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "MMF Money",
+        "category": ["Farm", "StableCoin", "Lending"],
+        "logo": "https://mmf.money/img/Token_BURROW.8b6d1c74.svg",
+        "description": "A hybrid CDP and partially collaterised stablecoin platform: Mad USD (MUSD)",
+        "link": "https://mmf.money/",
+        "twitter": "https://twitter.com/MMFcrypto"
+    }
+}

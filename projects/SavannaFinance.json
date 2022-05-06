@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "Savanna Finance",
+        "category": ["Farm", "Reserve Currency"],
+        "logo": "https://svn.finance/static/media/crypto_tomb_cash.9c75dc58.svg",
+        "description": "The first algorithmic stablecoin on Cronos , pegged to the price of 1 MMF via seigniorage.",
+        "link": "https://svn.finance/",
+        "twitter": "https://twitter.com/MMFcrypto"
+    }
+}
