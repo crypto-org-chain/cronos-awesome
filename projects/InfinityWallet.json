@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "Infinity Wallet", 
+        "category": ["Wallet", "Web3", "Infrastructure"],
+        "logo": "https://i.imgur.com/qCAeg7q.png",
+        "description": "An all-in-one multi-chain non-custodial wallet providing sublime accessibility to DeFi, and browser-less access to the world of Web3 and DApps",
+        "link": "https://infinitywallet.io/",
+        "twitter": "https://twitter.com/InfinityWallet"
+    }
+}
