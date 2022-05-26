@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "Crogecoin", 
+        "category": ["Bridge","NFT","DEX"],
+        "logo": "https://ibb.co/F6yx8ZS",
+        "description": "First memecoin launched on Cronos with utility, Bridge to bsc, P2E game, NFT, Rugchecker, Walletchecker and more",
+        "link": "https://www.crogecoin.com/",
+        "twitter": "https://twitter.com/CrogeCoin"
+    }
+}
