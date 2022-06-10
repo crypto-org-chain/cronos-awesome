@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "Pegasusdollar Finance",
+        "category": ["Stablecoin", "Farm"],
+        "logo": "https://raw.githubusercontent.com/PegasusDollar/resource/main/logo-pes.png",
+        "description": "The first algorithmic token pegged to METF running on the Cronos Chain. Completely decentralized on chain governance.",
+        "link": "https://pegasusdollar.finance/",
+        "twitter": "https://twitter.com/pegasusdollar"
+    }
+}

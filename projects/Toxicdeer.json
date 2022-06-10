@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "Toxic Deer Finance",
+        "category": ["Stablecoin", "Farm"],
+        "logo": "https://raw.githubusercontent.com/PegasusDollar/resource/main/toxicdeer.png",
+        "description": "The protocol is designed to expand and contract supply similar to the way central banks trade fiscal debt to stabilize purchasing power, without any rebases or collateral risk.",
+        "link": "https://toxicdeer.finance/",
+        "twitter": "https://twitter.com/ToxicDeerFi"
+    }
+}

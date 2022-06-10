@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "Mad Meerkat ETF",
+        "category": ["Farm", "Reserve Currency"],
+        "logo": "https://metf.finance/static/media/METF.6f54571d.svg",
+        "description": "MM ETF is the first decentralized ETF protocol that runs on METF token. The DTF term is thus coined by our team as the DEX Traded Fund, being the first of its kind.",
+        "link": "https://metf.finance/",
+        "twitter": "https://twitter.com/MMFcrypto"
+    }
+}
