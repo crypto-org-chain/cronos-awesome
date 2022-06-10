@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "Bitkeep Wallet", 
+        "category": ["Wallet", "NFT"],
+        "logo": "https://cdn.bitkeep.vip/u_b_757eec30-e6c9-11ec-a68f-e737bd70eac0.png",
+        "description": "Dedicated to the DeFi market, BitKeep discovers and identifies quality DeFi projects for you to explore the DeFi world with ease and peace of mind",
+        "link": "https://bitkeep.com/",
+        "twitter": "https://twitter.com/BitKeepOS"
+    }
+}
