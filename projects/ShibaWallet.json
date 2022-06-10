@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "ShibaWallet", 
+        "category": ["Infrastructure", "Wallet", "NFT"],
+        "logo": "https://shibawallet.cc/assets/AppIcon_200x200.png",
+        "description": "ShibaWallet is the best-in-class meme crypto wallet wallet for unified all your NFTs and meme coins in one app securely, self-governance and non-custodial entirely.",
+        "link": "https://shibawallet.cc",
+        "twitter": "https://twitter.com/ShibaWalletPro"
+    }
+}
