@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "Dinopool Finance",
+        "category": ["Stablecoin", "Farm"],
+        "logo": "https://raw.githubusercontent.com/PegasusDollar/resource/main/logo-dinop.svg",
+        "description": "The first DEER algorithmic pegged token and a special DEER birthday gift for the community with the mission of contributing value to the Ecosystem!",
+        "link": "https://dinopool.finance/",
+        "twitter": "https://twitter.com/ToxicDeerFi"
+    }
+}
