@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "BUCK", 
+        "category": ["Stablecoin","Farm","NFT"],
+        "logo": "https://buckstable.xyz/images/logo.png",
+        "description": "Asset-backed Stablecoin combined with Stabilizing Algorithm by farm-able Governance Token",
+        "link": "https://buckstable.xyz",
+        "twitter": "https://twitter.com/buckstable_xyz"
+    }
+}
