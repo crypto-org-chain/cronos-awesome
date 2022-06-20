@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "MarbleVerse", 
+        "category": ["Gaming", "Metaverse", "NFT"],
+        "logo": "https://cdn.marbleverse.io/MarbleVerse/MV400x400.png",
+        "description": "MarbleVerse is a metaverse project focused on Play-2-Earn gaming where your NFT Marbles can enter races to become the ultimate rolling champion.",
+        "link": "https://www.marbleverse.io/",
+        "twitter": "https://twitter.com/marbleverse_io"
+    }
+}
