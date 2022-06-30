@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "Ferro Protocol", 
+        "category": ["DEX"],
+        "logo": "https://pbs.twimg.com/media/FVd9PqXVEAE4Z5o?format=jpg",
+        "description": "Ferro Protocol - a trusted StableSwap AMM on Cronos with low slippage and minimum fee",
+        "link": "https://ferroprotocol.com/",
+        "twitter": "https://twitter.com/FerroProtocol"
+    }
+}
