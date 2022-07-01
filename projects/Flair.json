@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "Flair", 
+        "category": ["Infrastructure", "NFT", "Web3"],
+        "logo": "https://pbs.twimg.com/profile_images/1485278526001528833/iInAzdXb_400x400.jpg",
+        "description": "Flair is building the ultimate Web3 Infra Platform; offering building blocks to developers and founders so they can move easier and faster with integrating NFT and Web3 features into their projects, apps and games. We provide open-source building blocks for NFT and Web3 projects from Tokens, NFT Sales, Staking, to Revenue Sharing and Royalty management. These include ready-made Solidity contracts, React SDK, and easy-to-use wallet solutions.",
+        "link": "https://flair.finance/",
+        "twitter": "https://twitter.com/FlairFinance"
+    }
+}
