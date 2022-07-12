@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "Stride App", 
+        "category": ["move-to-earn", "nft", "web3"],
+        "logo": "https://stridecoin.app/wp-content/uploads/2022/07/Stride_logo.png",
+        "description": "Stride is a blockchain based web3, health and fitness application that guides and helps users achieve their body fitness goals.",
+        "link": "https://www.stridecoin.app",
+        "twitter": "https://www.twitter.com/stridecoinapp"
+    }
+}
