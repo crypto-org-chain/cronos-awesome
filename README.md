@@ -85,4 +85,4 @@ This will programatically create PR based on your commit. Once we receive the PR
 
 Note: We only accept PRs to our `staging` branch.
 
-Once review and approved, you should see your projects on [crypto-org-chain/cronos-awesome/tree/staging](crypto-org-chain/cronos-awesome/tree/staging).
+Once review and approved, you should see your projects on [crypto-org-chain/cronos-awesome/tree/staging](https://github.com/crypto-org-chain/cronos-awesome/tree/staging).
