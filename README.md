@@ -55,4 +55,4 @@ Note: If your project belongs to more than one category, you can add each second
 
 ### Next Step
 
-Once review and approved, you should see your projects on [crypto-org-chain/cronos-awesome/tree/staging](https://github.com/crypto-org-chain/cronos-awesome/tree/staging).
+Once review and approved, you should see your projects on the [crypto-org-chain/cronos-awesome projects list](https://github.com/crypto-org-chain/cronos-awesome/tree/main/projects).
