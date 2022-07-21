@@ -53,35 +53,6 @@ Note: If your project belongs to more than one category, you can add each second
 `Web3`,
 `Yield Optimiser`,
 
-### Commit Changes
-```bash
-git add .
-git commit -m "commit comment"
-git push -u origin main 
-```
-Note: Please make sure, you push to your forked repository
-
-### Create Pull Request
-if not Authenticated yet please run:
-
-```bash
-gh auth login
-```
-If the git CLI prompts the following: 
-
-`Which should be the base repository (used for e.g. querying issues) for this directory`
-
-Select the following base repository:
-
-`crypto-org-chain/cronos-awesome`
-
-Then:
-
-```bash
-gh pr create --base staging --head ${username}:main
-```
-This will programatically create PR based on your commit. Once we receive the PR we will review the project details and format.
-
-Note: We only accept PRs to our `staging` branch.
+### Next Step
 
 Once review and approved, you should see your projects on [crypto-org-chain/cronos-awesome/tree/staging](https://github.com/crypto-org-chain/cronos-awesome/tree/staging).
