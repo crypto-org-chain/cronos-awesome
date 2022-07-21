@@ -18,16 +18,15 @@ You're going to need:
 
 ### Getting Set Up
 
-1. Fork this repository on Github
-2. Clone your forked repository (not our original one) to your hard drive with `git clone https://github.com/{username}/cronos-awesome.git`
-3. `cd cronos-awesome`
-4. Make a copy of `MAKE_COPY.json`, rename the copy, move it under `projects` directory and start filling out the fields. Please keep the content in `MAKE_COPY.json` unchanged.
+1. Create a new file under `/projects`. GitHub will automatically fork the repo for you.
+2. Then you can submit the file. This should create a new PR for you to submit to our `main` branch.
+
 
 ### Fields 
 1. name: `The official name of your project`
 2. category: `Select up to 3 items from Categories below`
 3. logo: `Url to your logo`
-4. description: `Brief Project Description`,
+4. description: `Brief Project Description`
 5. link: `Url to your website`
 6. twitter: `Url to your Twitter`
 
@@ -54,35 +53,6 @@ Note: If your project belongs to more than one category, you can add each second
 `Web3`,
 `Yield Optimiser`,
 
-### Commit Changes
-```bash
-git add .
-git commit -m "commit comment"
-git push -u origin main 
-```
-Note: Please make sure, you push to your forked repository
+### Next Step
 
-### Create Pull Request
-if not Authenticated yet please run:
-
-```bash
-gh auth login
-```
-If the git CLI prompts the following: 
-
-`Which should be the base repository (used for e.g. querying issues) for this directory`
-
-Select the following base repository:
-
-`crypto-org-chain/cronos-awesome`
-
-Then:
-
-```bash
-gh pr create --base staging --head ${username}:main
-```
-This will programatically create PR based on your commit. Once we receive the PR we will review the project details and format.
-
-Note: We only accept PRs to our `staging` branch.
-
-Once review and approved, you should see your projects on [crypto-org-chain/cronos-awesome/tree/staging](https://github.com/crypto-org-chain/cronos-awesome/tree/staging).
+Once review and approved, you should see your projects on the [crypto-org-chain/cronos-awesome projects list](https://github.com/crypto-org-chain/cronos-awesome/tree/main/projects).
