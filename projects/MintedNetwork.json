@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "Minted", 
+        "category": ["NFT", "Launchpad"],
+        "logo": "https://pbs.twimg.com/profile_images/1557361034842714113/3n9QANXz_400x400.jpg",
+        "description": "Minted is a decentralised NFT platform that aspires to be the digital bazaar of wonders for everyone to discover, trade, and find NFT gems, native to Ethereum and Cronos.",
+        "link": "https://minted.network/",
+        "twitter": "https://twitter.com/MintedNetwork"
+    }
+}
