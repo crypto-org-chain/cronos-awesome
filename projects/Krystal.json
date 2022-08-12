@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "Krystal", 
+        "category": ["DEX", "Wallet", "Web3"],
+        "logo": "https://drive.google.com/file/d/1FlER5IAsyfi7DuPiqYrqkC43NgJ3uOm-/view?usp=sharing",
+        "description": "Krystal DeFi is a multi-chain platform to easily access popular DeFi services and manage NFTs. Krystal is a convenient, single point of access to transact with leading protocols on multiple blockchains, including KyberSwap, Uniswap, Aave, Venus Protocol, PancakeSwap, SushiSwap et.al. To date, Krystal supports Wallet, Swap & Earn services on 10 blockchains - Ethereum mainnet, Binance Smart Chain, Polygon, Avalanche, Fantom, Cronos, Arbitrum, Aurora, Solana and Klaytn. Krystal brings users the best token swap rates via SmartSwap, its Smart Liquidity Aggregator that sources tokens from 40+ DEXes. Additionally, users can earn passive income, manage NFTs, participate in token sales via its launchpad KrystalGO, and access cutting edge portfolio management and market insights tools.",
+        "link": "https://krystal.app/",
+        "twitter": "https://twitter.com/KrystalDefi"
+    }
+}
