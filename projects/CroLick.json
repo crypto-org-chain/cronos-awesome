@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "CroLick",
+        "category": ["NFT"],
+        "logo": "https://i.ibb.co/dK0jG7B/Cro-Lick-Logo.jpg",
+        "description": "NFT and Coin Yield Optimizer built on Cronos Network",
+        "link": "https://crolick.com/",
+        "twitter": "https://twitter.com/Cro_Lick"
+    }
+}
