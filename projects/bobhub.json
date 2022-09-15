@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "Bobhub", 
+        "category": ["Infrastructure", "Tools"],
+        "logo": "https://pbs.twimg.com/profile_images/1567422849182203905/6xRrTKLw_400x400.jpg",
+        "description": "Bobhub is an on-chain oracle optimized for storing and efficiently updating a significant amount of on-chain price quotes",
+        "link": "https://bobhub.xyz",
+        "twitter": "https://twitter.com/BobhubOracles"
+    }
+ }
