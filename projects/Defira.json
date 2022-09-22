@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "Defira", 
+        "category": ["Gaming", "Metaverse", "NFT"],
+        "logo": "https://defira-public.s3.amazonaws.com/fira-logo-flat.svg",
+        "description": "Defira is a blockchain metaverse, exploring exploring novel and engaging gameplay experiences by fusing DeFi and GameFi.",
+        "link": "https://defira.com",
+        "twitter": "https://twitter.com/defiraverse"
+    }
+}
