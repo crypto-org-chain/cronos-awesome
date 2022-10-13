@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "MugenSwap", 
+        "category": ["DEX"],
+        "logo": "https://www.mugenswap.xyz/favi.png",
+        "description": "MugenSwap is decentralized exchange for find best price tokens.",
+        "link": "https://www.mugenswap.xyz",
+        "twitter": "https://twitter.com/_mugenswap"
+    }
+}
