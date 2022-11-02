@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "OpenOcean", 
+        "category": ["DEX","web3"],
+        "logo": "https://cloudstorage.openocean.finance/image/OOE_LOGO.png",
+        "description": "OpenOcean is a leading decentralized exchange (DEX) aggregator, integrating the most major liquidity sources on Cronos to offer users the best swap rates.",
+        "link": "https://openocean.finance/",
+        "twitter": "https://twitter.com/OpenOceanGlobal"
+    }
+}
