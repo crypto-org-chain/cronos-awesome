@@ -1,0 +1,14 @@
+{
+  "project": {
+    "name": "Cwallet",
+    "category": [
+      "Wallet",
+      "Tools",
+      "Structured Finance"
+    ],
+    "logo": "https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/6e/f8/67/6ef86766-d52c-2bb1-6526-0da08c283378/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp",
+    "description": "THE First-Ever Custodial & Non-Custodial Combined Crypto Wallet.\nKeep Building Multi-functional Tools & Bridging Web2.0 to Web3.0.",
+    "link": "https://cwallet.com/",
+    "twitter": "https://twitter.com/cctip_com"
+  }
+}
