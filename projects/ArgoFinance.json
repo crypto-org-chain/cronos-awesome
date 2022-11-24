@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "Argo Finance", 
+        "category": ["Yield Optimiser", "Gaming", "NFT"],
+        "logo": "https://cdn.argofinance.money/argoTextLogo.png",
+        "description": "Argo is the premier liquid staking protocol built on top of the Cronos blockchain that aims to unlock the value of all staked CRO and maximize the capital efficiency of CRO across",
+        "link": "https://argofinance.money",
+        "twitter": "https://twitter.com/ArgoProtocol"
+    }
+ }
