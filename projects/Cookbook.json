@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "Cookbook", 
+        "category": ["Tools", "Web3", "Infrastructure"],
+        "logo": "https://locksmith.unlock-protocol.com/lock/0x461932419cd19cf192c6b729c5994f3f8c3557f2/icon",
+        "description": "Cookbook is the hub for smart contracts. It is one platform where you can find, deploy, and collaborate on any contract in EVM.",
+        "link": "https://cookbook.dev",
+        "twitter": "https://twitter.com/cookbook_dev"
+    }
+ }
