@@ -1,0 +1,11 @@
+
+{
+    "project": {
+        "name": "AlienCRO", 
+        "category": ["DEX", "Launchpad", "NFT", "Tools"],
+        "logo": "https://alien.exchange/favicon.png",
+        "description": "AlienCRO introducing a DEX, Launchpad, NFT collectibles and a native token with revolutionary DeFi features. For more details on the feature details and tokenomics follow our social’s",
+        "link": "https://alien.exchange",
+        "twitter": "https://twitter.com/aliencro51"
+    }
+ }
