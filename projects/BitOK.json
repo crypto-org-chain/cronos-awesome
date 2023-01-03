@@ -1,0 +1,8 @@
+{
+  "name": "BitOK",
+  "category": ["Others", "Tools", "Wallet"],
+  "logo": "https://static.bitok.org/BitOK.png", 
+  "description": "BitOK is a one-stop shop solution combining portfolio tracker with additional features that allow to get rid of AML and TAX issues. Using the service, users can manage real time transactions and data, upload and download documents for AML needs, check AML risks in real time for the entire portfolio, and report taxes."
+  "link": "https://bitok.org/",
+  "twitter": "https://twitter.com/Bitok_org"
+}
