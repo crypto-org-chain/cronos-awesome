@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "Veno", 
+        "category": ["Yield Optimiser", "Farm", "NFT"],
+        "logo": "https://veno.finance/favicon-384x384.png",
+        "description": "Veno is the simplest way to maximize your CRO yield through liquid staking.",
+        "link": "https://veno.finance",
+        "twitter": "https://twitter.com/venofinance"
+    }
+ }
