@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "CasinoCronos.com", 
+        "category": ["DEX", "Gaming", "Farm"],
+        "logo": "https://casinocronos.com/static/media/casinocronoslight.34a3bdc1.png",
+        "description": "CasinoCronos.com is a Casino DEX that allows users to provide liquidity, yield farm revenue, and play classic casino games like BlackJack, Craps, and more.",
+        "link": "https://casinocronos.com/",
+        "twitter": "https://twitter.com/casinocronos"
+    }
+}
