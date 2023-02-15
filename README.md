@@ -41,17 +41,10 @@ Note: If your project belongs to more than one category, you can add each second
 `Launchpad`,
 `Lending`,
 `Metaverse`,
-`News`,
-`NFT`,
-`Options`,
-`Others`,
-`Reserve Currency`,
-`Stablecoin`,
-`Structured Finance`,
-`Tools`,
-`Wallet`,
-`Web3`,
+`Community & News`,
 `Yield Optimiser`,
+`Earn`,
+`Other`,
 
 ### Next Step
 
