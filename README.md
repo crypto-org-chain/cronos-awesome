@@ -34,16 +34,15 @@ Note: If your project belongs to more than one category, you can add each second
 
 ### Categories (Select up to 3 categories)
 `Bridge`,
+`Community & News`,
+`DeFi`,
 `DEX`,
-`Farm`,
+`Earn`,
 `Gaming`,
 `Infrastructure`,
 `Launchpad`,
 `Lending`,
 `Metaverse`,
-`Community & News`,
-`Yield Optimiser`,
-`Earn`,
 `Other`,
 
 ### Next Step
