@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "Footprint Analytics", 
+        "category": ["dapp", "analytics", "API"],
+        "logo": "https://files.readme.io/be7e289-_2.png",
+        "description": "Footprint is a powerful yet easy-to-use analytics tool to uncover and visualize blockchain data. The product puts user experience first whether you’re an analyst, data scientist, developer, student, teacher, or executive. It provides an intuitive, drag-and-drop interface for interactive data queries.",
+        "link": "https://www.footprint.network",
+        "twitter": "https://twitter.com/Footprint_Data"
+    }
+}
