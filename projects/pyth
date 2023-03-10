@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "Pyth Network", 
+        "category": ["Infrastructure", "DeFi"],
+        "logo": "https://drive.google.com/file/d/12_z8jJ_2Vzal-dDy6TH9hCQuqzjvMj4N/view",
+        "description": "The Pyth network is a first-party financial oracle network designed to publish continuous real-world data on-chain in a tamper-resistant, decentralized, and self-sustainable environment.",
+        "link": "https://pyth.network/",
+        "twitter": "https://twitter.com/PythNetwork"
+    }
+}
