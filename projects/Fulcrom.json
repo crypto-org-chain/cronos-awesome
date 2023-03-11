@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "Fulcrom", 
+        "category": ["DeFi", "Derivatives"],
+        "logo": "https://fulcrom.finance/favicon.ico",
+        "description": "Decentralised Perpetual Exchange with 25x Leverage.",
+        "link": "https://fulcrom.finance/",
+        "twitter": "https://twitter.com/FulcromFinance"
+    }
+ }
