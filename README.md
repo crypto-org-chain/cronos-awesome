@@ -36,6 +36,7 @@ Note: If your project belongs to more than one category, you can add each second
 `Bridge`,
 `Community & News`,
 `DeFi`,
+`Derivatives`,
 `DEX`,
 `Earn`,
 `Gaming`,
@@ -43,6 +44,7 @@ Note: If your project belongs to more than one category, you can add each second
 `Launchpad`,
 `Lending`,
 `Metaverse`,
+`NFT`,
 `Other`,
 
 ### Next Step
