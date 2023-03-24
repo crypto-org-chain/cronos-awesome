@@ -34,7 +34,6 @@ Note: If your project belongs to more than one category, you can add each second
 
 ### Categories (Select up to 3 categories)
 `Analytics`,
-`Bridge`,
 `Community & News`,
 `DeFi`,
 `Derivatives`,
