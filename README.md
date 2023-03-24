@@ -33,10 +33,11 @@ You're going to need:
 Note: If your project belongs to more than one category, you can add each secondary category as a comma separated entry. (e.g. `["Farm", "NFT"]` etc.)
 
 ### Categories (Select up to 3 categories)
-`Bridge`,
+`Analytics`,
 `Community & News`,
 `DeFi`,
 `Derivatives`,
+'Dev Tool',
 `DEX`,
 `Earn`,
 `Gaming`,
@@ -45,7 +46,8 @@ Note: If your project belongs to more than one category, you can add each second
 `Lending`,
 `Metaverse`,
 `NFT`,
-`Other`,
+`Wallet`,
+`Other`
 
 ### Next Step
 
