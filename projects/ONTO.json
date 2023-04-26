@@ -1,0 +1,10 @@
+{
+    "project": {
+        "name": "ONTO",
+        "category": ["Infrastructure", "Wallet", "NFT"],
+        "logo": "https://onto.app/logo.ico",
+        "description": "A decentralized multi-chain gateway for identity and asset management.",
+        "link": "https://onto.app/",
+        "twitter": "https://twitter.com/ONTOWallet"
+    }
+}
