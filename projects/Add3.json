@@ -1,0 +1,10 @@
+{
+  "project": {
+    "name": "Add3",
+    "category": ["Dev Tools", "Infrastructure", "DeFi"],
+    "logo": "https://add3-assets.s3.eu-west-1.amazonaws.com/static/media/Add3Logo.9c314cc80b32030aceb9dfa2d217f461.svg",
+    "description": "Add3 helps organizations unlock their Web3 potential with a powerful no-code Web3 platform for creating and managing token products.",
+    "link": "https://www.add3.io/",
+    "twitter": "https://twitter.com/Add3official"
+  }
+}
