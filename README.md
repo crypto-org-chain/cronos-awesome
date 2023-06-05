@@ -38,7 +38,7 @@ Note: If your project belongs to more than one category, you can add each second
 `Community & News`,
 `DeFi`,
 `Derivatives`,
-'Dev Tool',
+`Dev Tool`,
 `DEX`,
 `Earn`,
 `Gaming`,
