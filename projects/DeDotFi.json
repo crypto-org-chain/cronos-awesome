@@ -1,0 +1,10 @@
+{
+  "project": {
+    "name": "De.Fi",
+    "category": ["DeFi", "Infrastructure"],
+    "logo": "https://icons.de.fi/icons/integrations/protocols/defi.webp",
+    "description": "De.Fi is the Inventor of Crypto's First Antivirus and the Web3 SuperApp",
+    "link": "https://de.fi/",
+    "twitter": "https://twitter.com/DeDotFi"
+  }
+}
